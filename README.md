@@ -4,11 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to Run Frontend
 
-Command to run Frontend:ng serve (or) npm start
+Command to run Frontend:'ng serve' (or) 'npm start'
 
 ## How to Run Backend 
 
-Command to run Backend:node filename.js (For our Project we have to run node server.js)
+Command to run Backend:node filename.js (For our Project we have to run 'node server.js')
 
 ## Development server
 
